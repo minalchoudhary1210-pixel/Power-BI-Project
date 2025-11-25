@@ -1,6 +1,6 @@
 # Power-BI-Project
 
-# Marketing Campaign Performance Dashboard (Power BI)
+# Marketing Campaign Performance Dashboard
 
 This project presents an interactive **Power BI dashboard** developed to analyze and evaluate the performance of a marketing campaign using the dataset provided in **Marketing_Campaign_Data.xlsx** and visualized through **Marketing_Campaign_Dashboard.pbix**.
 
