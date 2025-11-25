@@ -4,7 +4,7 @@
 
 This project presents an interactive **Power BI dashboard** developed to analyze and evaluate the performance of a marketing campaign using the dataset provided in **Marketing_Campaign_Data.xlsx** and visualized through **Marketing_Campaign_Dashboard.pbix**.
 
-The goal of this project is to provide a complete analytical overview of campaign effectiveness, customer engagement, revenue impact, and demographic insights—helping stakeholders make informed, data-driven marketing decisions.
+The goal of this project is to provide a complete analytical overview of campaign effectiveness, customer engagement, revenue impact, and demographic insights helping stakeholders make informed, data-driven marketing decisions.
 
 ---
 
