@@ -33,11 +33,11 @@ Includes:
 * Campaign table (Cost, Revenue, ROI%, Conversion Rate)
 * Monthly filters
 * Total KPIs:
-  ✔ Total Cost
-  ✔ Total Revenue
-  ✔ CPL
-  ✔ Conversion Rate
-  ✔ ROI%
+  * Total Cost
+  * Total Revenue
+  * CPL
+  * Conversion Rate
+  * ROI%
 * Marketing Funnel
 * Spend vs Revenue Trend
 * ROI% by Platform
@@ -85,23 +85,12 @@ This dataset is *artificial* and generated only for learning, demonstration, and
 
 ---
 
-## Skills Demonstrated
 
-* Data Modeling in Power BI
-* Creating custom **DAX Measures**
-* Designing interactive dashboards
-* Building Marketing Funnel Analysis
-* Time-series analysis (month-wise insights)
-* Statistical comparison across marketing platforms
-* User-centered dashboard layout & storytelling
-
----
-
-## 🛠 Tools Used
+## Tools Used
 
 * **Power BI Desktop**
 * **Excel (for dataset structuring)**
-* ChatGPT (for dataset generation and project documentation)
+* ChatGPT (for dataset generation)
 
 ---
 
